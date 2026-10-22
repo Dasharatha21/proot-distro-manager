@@ -5,7 +5,7 @@ Naye users ke liye aasan menu tool jisse Linux distros install, login aur remove
 ## Installation (Termux)
 
     pkg update && pkg install git -y
-    git clone https://github.com/YOUR_USERNAME/proot-distro-manager.git
+    git clone https://github.com/Dasharatha21/proot-distro-manager.git
     cd proot-distro-manager
     chmod +x distro-manager.sh
     ./distro-manager.sh
